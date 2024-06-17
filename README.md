@@ -60,7 +60,7 @@ Keywords used:
 - [Dental Panoramic Scan](https://figshare.com/articles/dataset/Dental_Panoramic_Scan/22580263)
 - [OII-DS](https://figshare.com/articles/dataset/OII-DS/22608790)
 
-### This is an ongoing project and the list will be updated on a continued basis.
+**This is an ongoing project and the list will be updated on a continued basis.**
 
 
 
